@@ -1,4 +1,4 @@
-<img src="vehicles.png" width="500">
+<img src="vehicles.png" width="600">
 
 # App de anuncios de vehículos
 
