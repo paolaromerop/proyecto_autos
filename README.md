@@ -1,3 +1,5 @@
+<img src="vehicles.png" width="500">
+
 # App de anuncios de vehículos
 
 Esta aplicación web fue desarrollada con Streamlit y permite visualizar datos de anuncios de vehículos usados.
